@@ -1,0 +1,13 @@
+{
+  "name": "fruitbench",
+  "version": "0.0.0",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "yargs": "~1.2.6"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
